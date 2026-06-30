@@ -1,0 +1,58 @@
+---
+title: "Baseline待办事项（已完成）"
+client: Baseline
+type: 项目文档
+phase: 上线期
+yuque_url: "https://www.yuque.com/xinsuixiaoyao-degek/klxky6/bkizpa45lq9ff80k"
+yuque_slug: "bkizpa45lq9ff80k"
+tags: [Odoo, 上线期, 完成实施, 客户/Baseline]
+created_at: "2025-02-10T10:35:06.000Z"
+updated_at: "2025-03-14T02:43:06.000Z"
+published_at: "2025-02-12T11:44:34.000Z"
+---
+# Baseline待办事项（已完成）
+
+1、PO、SO重新修改是否confirm如何表示
+
+
+2、销售价格表/采购价格表的更新逻辑
+
+若价格表中无该产品对应的价格，会自动增加一条记录，最终的销售订单或采购订单的价格只对本次订单生效，不会更新到价格表中。
+
+
+3、城市改成英文
+
+
+4、销售订单的采购价格以销售订单行选择的供应商来计算，total_margin比例和金额，
+
+在订单的total最下面，不含税；project country、brand必填；增加company group字段
+
+
+6、采购提前期计算逻辑
+
+
+7、采购订单取消合并
+
+
+8、采购订单增加字段Project Country、Project City、Project Location、Brand、Remark，
+
+且由销售订单自动带到采购订单。Source Document移到上面
+
+
+9、调拨单增加字段：快递单号Shipping Number、到货时间Shipping Date。
+
+快递方式 Shipping Type增加一个表维护。
+
+
+10、采购预付插件；
+
+
+11、如何从采购、销售订单查看收款和付款情况
+
+
+12、down payment默认科目
+
+已修改
+
+
+13、货币兑换率

@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Obsidian workspace (个人设置，不建议提交)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Claude / Claudian 本地缓存
+.claude/
+.claudian/
+
+# remotely-save 插件内嵌 OAuth 凭据，GitHub Secret Scanning 会拦
+.obsidian/plugins/remotely-save/
+
+# 临时文件
+*.tmp
+*.swp
+*~
+.Trash-*
