@@ -42,7 +42,14 @@ description: 根据业务需求检索 Odoo 应用市场与 OCA（GitHub）上是
 
 - 浏览/搜索：https://apps.odoo.com/apps/modules
 - 带版本过滤示例：`https://apps.odoo.com/apps/modules/<version>`（如 `19.0`）
-- 关键词搜索：在应用市场搜索框使用英文业务关键词为主，中文为辅
+- 已知技术名直达：`https://apps.odoo.com/apps/modules/<version>/<technical_name>`
+- 关键词：英文业务词为主，中文为辅
+
+若 Apps 页面抓取超时/失败，立刻换备用方式，不要停：
+
+1. WebSearch：`site:apps.odoo.com <keywords> <version>`
+2. `curl`/浏览器打开候选详情页核对价格与许可
+3. 仍读不到标价 → 写「未能读取当前标价」并附链接
 
 对每个候选记录：
 
@@ -67,22 +74,24 @@ description: 根据业务需求检索 Odoo 应用市场与 OCA（GitHub）上是
 
 ### 3. OCA（必查）
 
-并行查两个入口，避免漏掉：
+并行查这些入口，避免漏掉：
 
-1. **OCA Apps**：https://apps.odoo-community.org/  
-2. **GitHub OCA 组织**：https://github.com/OCA  
-   - 用 GitHub 搜索：`org:OCA <keywords>`  
-   - 或按主题仓库（如 `sale-workflow`、`purchase-workflow`、`account-financial-tools`、`stock-logistics-workflow`、`server-ux`、`web` 等）进入后按模块目录名检索
-   - 核对目标版本分支是否存在（`16.0` / `17.0` / `18.0` / `19.0`…）
+1. **GitHub OCA 组织（主发现渠道）**：https://github.com/OCA  
+   - 搜索：`org:OCA <keywords>`，或用 GitHub API / `gh` 查仓库与目录  
+   - 按主题仓库进入（如 `sale-workflow`、`purchase-workflow`、`account-financial-tools`、`stock-logistics-workflow`、`server-ux`、`web`）  
+   - 核对目标版本分支是否存在（`16.0` / `17.0` / `18.0` / `19.0`…）  
    - 阅读模块 README / `__manifest__.py` 的 `name`、`summary`、`depends`、`license`、`version`
+2. **OCA Apps 详情**：https://apps.odoo-community.org/modules/<technical_name>  
+   - 目录页：https://apps.odoo-community.org/modules  
+   - 分类：https://apps.odoo-community.org/categories  
+   - 注意：站点泛搜索结果可能不稳；优先用技术名直达页 + GitHub 发现
+3. **交叉验证**：OCA 模块常同步出现在 apps.odoo.com（作者显示 OCA）
 
 OCA 模块默认视为**开源免费**（常见 AGPL-3/LGPL-3），但仍要写明：
 
 - 许可证
-- 维护活跃度信号（最近提交、是否有目标版本分支、issue 情况——简要即可）
+- 维护活跃度信号（目标版本分支是否存在、最近维护情况——简要即可）
 - 部署成本：免费下载 ≠ 零实施成本；若适配/依赖较多，在「落地成本」里说明
-
-也可交叉验证：OCA 模块常同步出现在 apps.odoo.com（作者显示 OCA）。
 
 ### 4. 必要的交叉核对
 

@@ -8,9 +8,18 @@
 | --- | --- | --- |
 | Odoo Apps Store | https://apps.odoo.com/apps/modules | 官方应用市场，含免费与付费第三方模块 |
 | 按版本浏览 | https://apps.odoo.com/apps/modules/19.0 （把版本换成目标版） | 过滤兼容版本 |
-| OCA Apps | https://apps.odoo-community.org/ | OCA 模块目录与说明 |
-| OCA GitHub | https://github.com/OCA | 源码、版本分支、README、manifest |
+| Apps 模块直达 | https://apps.odoo.com/apps/modules/<version>/<technical_name> | 核对价格、许可、依赖 |
+| OCA Apps 目录 | https://apps.odoo-community.org/modules | OCA 模块浏览 |
+| OCA 模块直达 | https://apps.odoo-community.org/modules/<technical_name> | 版本、许可、仓库链接 |
+| OCA 分类 | https://apps.odoo-community.org/categories | 按业务域浏览 |
+| OCA GitHub | https://github.com/OCA | 主发现渠道：源码、分支、README、manifest |
 | Odoo Apps FAQ（许可/定价键） | https://apps.odoo.com/apps/faq | 理解 `price` / `currency` / `license` |
+
+### 抓取失败时的备用路径
+
+1. WebSearch：`site:apps.odoo.com <keywords>` / `site:apps.odoo-community.org <technical_name>`
+2. GitHub API：`/orgs/OCA/repos`、`/repos/OCA/<repo>/contents?ref=<version>`、`/repos/OCA/<repo>/branches`
+3. Apps 页超时很常见：不要因此跳过付费核对；用搜索摘要里的价格线索 + 详情页重试
 
 ## GitHub 检索示例
 
@@ -87,6 +96,7 @@ org:OCA path:__manifest__.py "purchase_request"
 
 ## 检索失败时
 
-- 应用市场页面结构变化导致读不到价格 → 给链接并写「未能读取当前标价」
-- GitHub 限流 → 改用 OCA Apps 页面或缩小搜索范围后重试
+- 应用市场页面超时或结构变化导致读不到价格 → 给链接并写「未能读取当前标价」
+- OCA `/shop?search=` 类泛搜索不可靠 → 改用 GitHub `org:OCA` + `/modules/<technical_name>` 直达
+- GitHub 限流 → 改用 OCA Apps 直达页或缩小搜索范围后重试
 - 中文需求在 Apps 英文结果差 → 先译成英文功能词再搜，并补充中国本地化/企微等中文关键词
