@@ -5,6 +5,8 @@ description: 根据业务需求检索 Odoo 应用市场与 OCA（GitHub）上是
 
 # 查找 Odoo 插件 / 模块
 
+> 全局安装：放到用户目录 `~/.cursor/skills/find-odoo-apps/`（见同目录 `INSTALL.md`）。不要只放在某个项目的 `.cursor/skills/`，否则仅该项目可用。
+
 当用户用自然语言描述业务需求时，按本流程检索并给出可落地的模块候选，而不是空泛建议「可以开发」。
 
 ## 何时启用
