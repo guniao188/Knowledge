@@ -27,6 +27,12 @@ This module forces filter in `Income Account` and `Customer Taxes` by invoicing 
 
 - Confirm the SO and create the invoice, the system will pass the company corresponding to this SO in the context of the invoice, then filter the `Income Account` and the `Customer Taxes` using this context:
 
+
+## 原帖外链配图
+
+![[2-smile-sososmile-multi-company-sale-3-x194038c2.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_multi_company_sale/static/description/income_account_fi</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]
