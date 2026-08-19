@@ -23,6 +23,12 @@ tags:
 - Export automatically properties linked to selected models
 -
 
+
+## 原帖外链配图
+
+![[2-smilesmile-module-record-3065-x194038c2.png]]
+<small>原始地址: /web/image/1660/snipaste_20190531_214426.png?access_token=3c060702-38bd-4e4b-9ddd-5d36eb0b1040</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

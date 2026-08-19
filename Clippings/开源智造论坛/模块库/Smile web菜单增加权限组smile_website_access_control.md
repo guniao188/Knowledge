@@ -47,6 +47,18 @@ Without having the rights on the menu, you can't access it, even by typing the u
 
 Example with user logged in:
 
+
+## 原帖外链配图
+
+![[2-smile-websmile-website-access-contro-x7cbbb815.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_website_access_control/static/description/add_user_to_g</small>
+
+![[2-smile-websmile-website-access-contro-x2c5e9682.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_website_access_control/static/description/add_menu_to_g</small>
+
+![[2-smile-websmile-website-access-contro-x42d36c0e.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_website_access_control/static/description/website_witho</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

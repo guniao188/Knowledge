@@ -96,6 +96,21 @@ Features:
 
 -
 
+
+## 原帖外链配图
+
+![[2-smilesmile-multi-company-base-3073-x41fb9bf0.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_multi_company_base/static/description/allow_login.png</small>
+
+![[2-smilesmile-multi-company-base-3073-x21890999.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_multi_company_base/static/description/companies_list.pn</small>
+
+![[2-smilesmile-multi-company-base-3073-x77145a96.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_multi_company_base/static/description/A1_company.png</small>
+
+![[2-smilesmile-multi-company-base-3073-x8890f03c.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_multi_company_base/static/description/Journal_Items.png</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

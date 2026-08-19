@@ -33,6 +33,12 @@ This module adds feature to have private blogs and post, visible only for certai
 
 ##
 
+
+## 原帖外链配图
+
+![[2-smilesmile-website-blog-private-3071-x25f62685.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_website_blog_private/static/description/access1.png</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]
