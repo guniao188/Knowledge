@@ -46,6 +46,18 @@ To edit a decimal precision :
 
 5.  Now, go back to your interface to see the new decimal accuracy :
 
+
+## 原帖外链配图
+
+![[2-smilesmile-decimal-precision-3067-x869efbcc.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_decimal_precision/static/description/choose_field.png</small>
+
+![[2-smilesmile-decimal-precision-3067-x231e3250.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_decimal_precision/static/description/select_decimal_acc</small>
+
+![[2-smilesmile-decimal-precision-3067-xb8b47b04.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_decimal_precision/static/description/edit_decimal_accur</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

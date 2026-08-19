@@ -189,6 +189,15 @@ PO有预付款记录与PO绑定
 
 ![[2-smilesmile-advance-payment-purchase-3077-b9f46e76.png]]
 
+
+## 原帖外链配图
+
+![[2-smilesmile-advance-payment-purchase--x514878fc.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/11.0/smile_advance_payment_purchase/static/description/purchase.pn</small>
+
+![[2-smilesmile-advance-payment-purchase--x3c6daf47.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/11.0/smile_advance_payment_purchase/static/description/advance.png</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

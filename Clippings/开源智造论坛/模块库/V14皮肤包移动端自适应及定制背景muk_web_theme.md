@@ -29,6 +29,15 @@ s能用户自由定义和设置颜色和边栏大小：
 
 ![[2-v14muk-web-theme-3421-5e707169.png]]
 
+
+## 原帖外链配图
+
+![[2-v14muk-web-theme-3421-x96ae3c29.png]]
+<small>原始地址: https://apps.odoocdn.com/apps/assets/14.0/muk_web_theme/screenshot.png?86636a8</small>
+
+![[2-v14muk-web-theme-3421-x95089107.png]]
+<small>原始地址: https://apps.odoocdn.com/apps/assets/14.0/muk_web_theme/screenshot_apps.png?86636a8</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

@@ -53,6 +53,15 @@ To configure this module, you need to:
     >
     >
 
+
+## 原帖外链配图
+
+![[2-smilemessage-smile-record-rule-error-xa690a2c2.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_record_rule_error/static/description/Error_message.png</small>
+
+![[2-smilemessage-smile-record-rule-error-xdf612a36.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_record_rule_error/static/description/improved_error_mes</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

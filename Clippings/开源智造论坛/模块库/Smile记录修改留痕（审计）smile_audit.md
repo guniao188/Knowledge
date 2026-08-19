@@ -102,6 +102,18 @@ To view logs of displayed model:
 
 -
 
+
+## 原帖外链配图
+
+![[2-smile-smile-audit-3053-x6ec384d5.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_audit/static/description/create_audit_rules.png</small>
+
+![[2-smile-smile-audit-3053-xced612f9.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_audit/static/description/show_list_logs.png</small>
+
+![[2-smile-smile-audit-3053-x1cc774d0.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_audit/static/description/display_operation_log.png</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]
