@@ -58,6 +58,15 @@ To enable sending of companies and users info to Odoo S.A., add in your configur
         enable_publisher_warranty_contract_notification = True
 ```
 
+
+## 原帖外链配图
+
+![[2-smilesmile-base-3045-x194038c2.png]]
+<small>原始地址: /web/image/1648/snipaste_20190531_175240.png?access_token=97e8b0d5-deaf-4d6b-8503-e39abaeae459</small>
+
+![[2-smilesmile-base-3045-x194038c2.png]]
+<small>原始地址: /web/image/1650/snipaste_20190531_180720.png?access_token=9e5c2a05-2ec2-4787-9c5b-e2b6c8b4e0d8</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]
