@@ -37,6 +37,12 @@ Odoo 12.0版本（V13应该可以直接安装）：
 
 而销售出库单作业类型不要显示详细作业。
 
+
+## 原帖外链配图
+
+![[2-ocastock-picking-filter-lot-2556-x194038c2.png]]
+<small>原始地址: /web/image/829/snipaste_20190119_181007.png?access_token=32eb2e7d-83d9-42ad-88bd-d6555e8c0c96</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

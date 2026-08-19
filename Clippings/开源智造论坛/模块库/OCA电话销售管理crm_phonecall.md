@@ -30,6 +30,12 @@ To use this module, you need to:
 5.  Calls can be analyzed in *Sales > Reports > Phone Calls Analysis*.
 6.
 
+
+## 原帖外链配图
+
+![[2-ocacrm-phonecall-2809-x194038c2.png]]
+<small>原始地址: /web/image/1281/snipaste_20190206_091447.png?access_token=a6bea4a9-0a66-4689-967d-6b37701befb3</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

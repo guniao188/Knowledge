@@ -23,6 +23,12 @@ tags:
 [
 ](https://github.com/OCA/stock-logistics-warehouse/tree/11.0/stock_warehouse_orderpoint_stock_info_unreserved)
 
+
+## 原帖外链配图
+
+![[2-ocastock-warehouse-orderpoint-stock--x194038c2.png]]
+<small>原始地址: /web/image/1381/snipaste_20190215_192039.png?access_token=e9bf1399-5ec1-4344-9837-e1ab47b44fa9</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

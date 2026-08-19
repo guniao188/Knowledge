@@ -23,6 +23,12 @@ tags:
 
 Adds subtotal price based on the delivered quantities field to the *Sales Report*.
 
+
+## 原帖外链配图
+
+![[2-ocasale-report-delivered-subtotal-27-x194038c2.png]]
+<small>原始地址: /web/image/1245/snipaste_20190202_150231.png?access_token=ca5affca-3581-4784-9d2d-78f61cc0199d</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

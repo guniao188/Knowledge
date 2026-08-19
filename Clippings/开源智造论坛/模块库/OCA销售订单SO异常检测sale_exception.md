@@ -27,6 +27,15 @@ This module allows you attach several customizable exceptions to your sale order
 
 This is especially useful in an scenario for mass sales order import such as with the base_sale_multi_channels module, because it's likely some orders have errors when you import them (like product not found in Odoo, wrong line format etc.)
 
+
+## 原帖外链配图
+
+![[2-ocasosale-exception-2669-x194038c2.png]]
+<small>原始地址: /web/image/1008/snipaste_20190121_100228.png?access_token=038b40a5-ba2d-4c85-a9bb-303513a070ad</small>
+
+![[2-ocasosale-exception-2669-x194038c2.png]]
+<small>原始地址: /web/image/1010/snipaste_20190121_101305.png?access_token=b4f8fcaf-8a8e-423a-b5a9-adf9666f7d7f</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

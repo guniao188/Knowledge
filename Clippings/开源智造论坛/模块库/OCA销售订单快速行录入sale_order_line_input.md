@@ -30,6 +30,12 @@ To use this module, you need to:
 3.  Create new line related with existant order
 4.  If order field is empty, a new order will be created
 
+
+## 原帖外链配图
+
+![[2-ocasale-order-line-input-2682-x194038c2.png]]
+<small>原始地址: /web/image/1046/snipaste_20190121_122952.png?access_token=ac1abcd7-8d3c-480a-bbd5-5d17952bfced</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

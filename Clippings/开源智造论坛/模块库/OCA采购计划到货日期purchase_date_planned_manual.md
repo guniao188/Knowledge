@@ -35,6 +35,12 @@ Or:
 2.  Run the procurement.
 3.  Now the scheduled date in the procurement is respected even if the line is added to a previously existing PO.
 
+
+## 原帖外链配图
+
+![[2-ocapurchase-date-planned-manual-2604-x194038c2.png]]
+<small>原始地址: /web/image/889/snipaste_20190120_105735.png?access_token=94299f91-6caa-4e88-8126-2e92b4b71f27</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

@@ -45,6 +45,15 @@ To allow an Stock Manager configure preset reasons easily, you should:
 - Enable: Technical Settings > Manage Stock Change Qty Preset Reasons
 - Go to Inventory > Configuration > Inventory Adjustment > Change Qty Reasons
 
+
+## 原帖外链配图
+
+![[2-ocastock-change-qty-reason-2854-x194038c2.png]]
+<small>原始地址: /web/image/1349/snipaste_20190215_121227.png?access_token=8775e32e-ac3a-4d22-bfc6-43066d05a338</small>
+
+![[2-ocastock-change-qty-reason-2854-x194038c2.png]]
+<small>原始地址: /web/image/1351/snipaste_20190215_121309.png?access_token=affc038e-f90f-45ad-a76b-f48705214aa3</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

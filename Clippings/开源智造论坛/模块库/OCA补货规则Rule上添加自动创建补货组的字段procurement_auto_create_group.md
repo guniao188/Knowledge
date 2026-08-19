@@ -38,6 +38,12 @@ The stock transfers resulting from the execution of these procurements will only
 1.  Create a new procurement and make sure that it determines a pull rule with the option 'Auto-create Procurement Group' set.
 2.  When the procurement rule is executed, a procurement group with format 'PG/000001' will be created.
 
+
+## 原帖外链配图
+
+![[2-ocaruleprocurement-auto-create-group-x194038c2.png]]
+<small>原始地址: /web/image/1344/snipaste_20190214_144006.png?access_token=2621d6bf-44a4-4010-954b-5d320d655aca</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

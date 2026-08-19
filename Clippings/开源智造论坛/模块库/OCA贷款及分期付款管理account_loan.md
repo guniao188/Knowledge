@@ -67,6 +67,18 @@ On a posted loan you can:
 
 【分期付款】
 
+
+## 原帖外链配图
+
+![[2-ocaaccount-loan-2742-x194038c2.png]]
+<small>原始地址: /web/image/1672/snipaste_20190610_122837.png?access_token=9e716bc4-1734-4b89-b53f-e5db2b628446</small>
+
+![[2-ocaaccount-loan-2742-x194038c2.png]]
+<small>原始地址: /web/image/1674/snipaste_20190610_122330.png?access_token=b6b3e46f-f183-4330-988a-7f19c7c7879b</small>
+
+![[2-ocaaccount-loan-2742-x194038c2.png]]
+<small>原始地址: /web/image/1676/snipaste_20190610_124231.png?access_token=b9f5eacd-7047-4222-85d5-d8786277cc46</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

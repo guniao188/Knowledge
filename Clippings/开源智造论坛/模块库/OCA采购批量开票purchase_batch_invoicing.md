@@ -63,6 +63,15 @@ To use this module, you need to:
 
 9.  You will get to a screen where you can see all the vendor bills you just generated.
 
+
+## 原帖外链配图
+
+![[2-ocapurchase-batch-invoicing-2701-x194038c2.png]]
+<small>原始地址: /web/image/1104/snipaste_20190126_155334.png?access_token=5ea39f28-679b-4d08-8c5c-437b22537b96</small>
+
+![[2-ocapurchase-batch-invoicing-2701-x194038c2.png]]
+<small>原始地址: /web/image/1106/snipaste_20190126_155407.png?access_token=d39ddac1-7f77-4d49-810c-6da10ec88b0e</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

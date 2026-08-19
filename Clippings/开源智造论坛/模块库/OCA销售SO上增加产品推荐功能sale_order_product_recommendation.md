@@ -33,6 +33,12 @@ To use this module, you need to:
 4.  Add products into the opened wizard.
 5.  Press *Accept*.
 
+
+## 原帖外链配图
+
+![[2-ocasosale-order-product-recommendati-x194038c2.png]]
+<small>原始地址: /web/image/1062/snipaste_20190121_175600.png?access_token=5bbdd4ce-dfee-40cd-aaf5-1b7d05125e68</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

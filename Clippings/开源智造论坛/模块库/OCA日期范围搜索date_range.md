@@ -49,6 +49,30 @@ To configure this module, you need to:
   And the dates specified into the date range are used to filter your result.
 ```
 
+
+## 原帖外链配图
+
+![[2-ocadate-range-2568-x83b28f41.png]]
+<small>原始地址: https://raw.githubusercontent.com/OCA/server-tools/10.0/date_range/static/description/date_range_type_create.p</small>
+
+![[2-ocadate-range-2568-x62e05893.png]]
+<small>原始地址: https://raw.githubusercontent.com/OCA/server-tools/10.0/date_range/static/description/date_range_create.png</small>
+
+![[2-ocadate-range-2568-x5ba3baa6.png]]
+<small>原始地址: https://raw.githubusercontent.com/OCA/server-tools/10.0/date_range/static/description/date_range_wizard.png</small>
+
+![[2-ocadate-range-2568-xb3f011fc.png]]
+<small>原始地址: https://raw.githubusercontent.com/OCA/server-tools/10.0/date_range/static/description/date_range_wizard_result</small>
+
+![[2-ocadate-range-2568-x93732aa1.png]]
+<small>原始地址: https://raw.githubusercontent.com/OCA/server-tools/10.0/date_range/static/description/date_range_type_as_filte</small>
+
+![[2-ocadate-range-2568-xf1c49df5.png]]
+<small>原始地址: https://raw.githubusercontent.com/OCA/server-tools/10.0/date_range/static/description/date_range_as_filter.png</small>
+
+![[2-ocadate-range-2568-xb2209c38.png]]
+<small>原始地址: https://raw.githubusercontent.com/OCA/server-tools/10.0/date_range/static/description/date_range_as_filter_res</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

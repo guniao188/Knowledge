@@ -33,6 +33,15 @@ You can then add a mapping on that SO field to save the e-commerce financial Tra
 
 The main purpose is to ease the reconciliation process and be able to find the partner when importing the bank statement.
 
+
+## 原帖外链配图
+
+![[2-ocabase-transaction-id-2718-x194038c2.png]]
+<small>原始地址: /web/image/1154/snipaste_20190127_114654.png?access_token=c5108d68-ea7c-47b3-9980-7c0dba5bb860</small>
+
+![[2-ocabase-transaction-id-2718-x194038c2.png]]
+<small>原始地址: /web/image/1156/snipaste_20190127_114800.png?access_token=363dc316-fe31-4844-addd-5c1f4e763349</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

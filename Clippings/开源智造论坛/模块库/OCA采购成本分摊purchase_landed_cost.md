@@ -65,6 +65,21 @@ The functionality of this module is to provide a way to manage your purchase cos
 提取码：wxds
 复制这段内容后打开百度网盘手机App，操作更方便哦
 
+
+## 原帖外链配图
+
+![[2-ocapurchase-landed-cost-2618-x194038c2.png]]
+<small>原始地址: /web/image/924/snipaste_20190120_161425.png?access_token=1253ec02-a24b-447b-875f-02e94c012f3c</small>
+
+![[2-ocapurchase-landed-cost-2618-x194038c2.png]]
+<small>原始地址: /web/image/926/snipaste_20190120_161630.png?access_token=f1d3643d-e682-4284-89b5-efa5affcbdc1</small>
+
+![[2-ocapurchase-landed-cost-2618-x194038c2.png]]
+<small>原始地址: /web/image/928/snipaste_20190120_162127.png?access_token=89779417-c938-42c5-95a1-b76d4c001be1</small>
+
+![[2-ocapurchase-landed-cost-2618-x194038c2.png]]
+<small>原始地址: /web/image/930/snipaste_20190120_162807.png?access_token=ec113263-1e6b-48e4-bfff-95b9eb39bbd1</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

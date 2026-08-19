@@ -78,6 +78,12 @@ After confirming the picking, click on Auto fill operations button. The Operatio
 3.  Click on "Mark as Todo" button, and then on "Reserve".
 4.  Clicking on the icon with the three items bullet list on the "Operations" tab you will see that the quantities have been auto-assigned on the "Done" column.
 
+
+## 原帖外链配图
+
+![[2-ocastock-pack-operation-auto-fill-25-x194038c2.png]]
+<small>原始地址: /web/image/817/snipaste_20190119_160859.png?access_token=85a94622-4bfd-47b4-8f58-9e9d25149a89</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

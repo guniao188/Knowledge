@@ -39,6 +39,21 @@ SO上增加支付方式字段，并从Partner上自动带入SO，并自动带到
 
 This modules adds one field on sale orders: *Payment Mode*. This field is copied from customer to sale order and then from sale order to customer invoice.
 
+
+## 原帖外链配图
+
+![[2-ocaaccount-payment-2683-x194038c2.png]]
+<small>原始地址: /web/image/1048/snipaste_20190121_135522.png?access_token=1f84422c-e5b1-4801-beca-f9d1ee74780f</small>
+
+![[2-ocaaccount-payment-2683-x194038c2.png]]
+<small>原始地址: /web/image/1050/snipaste_20190121_135554.png?access_token=b62fafe0-8ae3-4d23-a652-88b09e099e0f</small>
+
+![[2-ocaaccount-payment-2683-x194038c2.png]]
+<small>原始地址: /web/image/1052/snipaste_20190121_135645.png?access_token=f2eda56e-af43-49be-8bbf-831f420b94d2</small>
+
+![[2-ocaaccount-payment-2683-x194038c2.png]]
+<small>原始地址: /web/image/1054/snipaste_20190121_140032.png?access_token=170a0620-2473-4b2e-af89-7f01fe4802e2</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

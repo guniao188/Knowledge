@@ -65,6 +65,15 @@ When you create a quotation, it is numbered using the 'sale.quotation' sequence.
 
 To configure this module you need to go to Sales -> Configuration and uncheck 'Use same enumeration for quotations and sale orders'.
 
+
+## 原帖外链配图
+
+![[2-ocasosale-quotation-number-2678-x194038c2.png]]
+<small>原始地址: /web/image/1034/snipaste_20190121_112429.png?access_token=37ad4487-f6bd-43de-8770-f6b9ebf2ab2e</small>
+
+![[2-ocasosale-quotation-number-2678-x194038c2.png]]
+<small>原始地址: /web/image/1036/snipaste_20190121_112727.png?access_token=c6cfdf7a-ef11-49cb-a676-4ba87634eee2</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

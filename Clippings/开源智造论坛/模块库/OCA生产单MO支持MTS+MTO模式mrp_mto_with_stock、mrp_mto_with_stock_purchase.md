@@ -63,6 +63,18 @@ When a manufacturing order is created out of a procurement evaluation (from an o
 
 For example, if it takes 1 day to manufacture a product and it is required for Monday, the manufacturing order will be created with planned start date on the previous Friday, if the warehouse operates under a Mo-Fri working calendar.
 
+
+## 原帖外链配图
+
+![[2-ocamomts-mtomrp-mto-with-stockmrp-mt-x194038c2.png]]
+<small>原始地址: /web/image/1463/snipaste_20190310_160042.png?access_token=21cef4d0-ad3c-4cb8-8c6e-555349bd6ac5</small>
+
+![[2-ocamomts-mtomrp-mto-with-stockmrp-mt-x194038c2.png]]
+<small>原始地址: /web/image/1465/snipaste_20190310_160155.png?access_token=064bbbbe-a62a-4429-b418-839d6e07ab76</small>
+
+![[2-ocamomts-mtomrp-mto-with-stockmrp-mt-x194038c2.png]]
+<small>原始地址: /web/image/1467/snipaste_20190310_160619.png?access_token=1aa4cefc-6d01-49ff-a73d-5bb00674b58c</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

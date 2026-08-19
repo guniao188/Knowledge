@@ -21,6 +21,15 @@ tags:
 
 [https://apps.odoo.com/apps/modules/14.0/legion_enterprise_theme/](https://apps.odoo.com/apps/modules/14.0/legion_enterprise_theme/)
 
+
+## 原帖外链配图
+
+![[2-odoo-enterprise-theme-odoo-12-13-14--x4adedffc.png]]
+<small>原始地址: https://apps.odoocdn.com/apps/assets/14.0/legion_enterprise_theme/main_screenshot.png?d38b663</small>
+
+![[2-odoo-enterprise-theme-odoo-12-13-14--x3b18e593.png]]
+<small>原始地址: https://apps.odoocdn.com/apps/assets/14.0/legion_enterprise_theme/main_2.png?d38b663</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

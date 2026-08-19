@@ -48,6 +48,15 @@ Add groups:
 
 Add users (with dates or not):
 
+
+## 原帖外链配图
+
+![[2-ocabase-user-role-2754-x194038c2.png]]
+<small>原始地址: /web/image/1233/snipaste_20190129_155643.png?access_token=09186da5-9d13-4116-81e0-602ae0ff9166</small>
+
+![[2-ocabase-user-role-2754-x194038c2.png]]
+<small>原始地址: /web/image/1235/snipaste_20190129_155143.png?access_token=d9d24270-b1ce-4899-90ad-4f1ec2a9628d</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

@@ -39,6 +39,12 @@ Go to each product category, and select one of these values in the field "Procur
 
 Odoo12改成stock.rule 了，应该内容差不多，名字改了一下。
 
+
+## 原帖外链配图
+
+![[2-ocaprocurement-purchase-no-grouping--x194038c2.png]]
+<small>原始地址: /web/image/879/snipaste_20190120_101720.png?access_token=5160b668-6009-455f-804f-7c3f1da029f0</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

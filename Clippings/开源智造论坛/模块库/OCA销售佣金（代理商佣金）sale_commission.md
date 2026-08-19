@@ -102,6 +102,24 @@ For invoicing the settlements (only for external agents):
     - Settlements: For selecting specific settlements to invoice. You can leave it blank as well for invoicing all the pending settlements.
 3.  If you want to invoice a specific settlement, you can navigate to it in *Sales > Commissions Management > Settlements*, and click on "Make invoice" button.
 
+
+## 原帖外链配图
+
+![[2-oca-sale-commission-2819-x194038c2.png]]
+<small>原始地址: /web/image/1303/snipaste_20190206_203751.png?access_token=be1cc90f-b5f8-4a35-b988-52977a188875</small>
+
+![[2-oca-sale-commission-2819-x194038c2.png]]
+<small>原始地址: /web/image/1305/snipaste_20190206_203254.png?access_token=73c3d336-60f2-47bf-abea-09aef28c8402</small>
+
+![[2-oca-sale-commission-2819-x194038c2.png]]
+<small>原始地址: /web/image/1309/snipaste_20190206_202749.png?access_token=7e955fa9-dbf4-4a90-813c-015b7c21ef98</small>
+
+![[2-oca-sale-commission-2819-x194038c2.png]]
+<small>原始地址: /web/image/1311/snipaste_20190206_203412.png?access_token=17bd1b54-a9d2-4f2c-aca5-496d37ea8906</small>
+
+![[2-oca-sale-commission-2819-x194038c2.png]]
+<small>原始地址: /web/image/1307/snipaste_20190206_203537.png?access_token=c51c6c72-5ff2-4c85-a759-2742c7fffb23</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

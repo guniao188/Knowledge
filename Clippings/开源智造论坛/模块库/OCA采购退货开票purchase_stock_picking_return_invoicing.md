@@ -66,6 +66,12 @@ Case 2: When you return to a supplier some products, and you have already receiv
 
 Remark: If you accept that you will not claim for a refund for the quantity returned to the supplier, just leave without checking the mark "To refund (Update SO/PO)" on the return dialog.
 
+
+## 原帖外链配图
+
+![[2-ocapurchase-stock-picking-return-inv-x194038c2.png]]
+<small>原始地址: /web/image/1102/snipaste_20190126_153808.png?access_token=16b1673b-5667-44a3-8761-622fef1b369b</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

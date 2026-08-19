@@ -82,6 +82,18 @@ Widget Options:
     ...
 ```
 
+
+## 原帖外链配图
+
+![[2-ocaweb-widget-color-2834-xecafc1d0.png]]
+<small>原始地址: https://github.com/OCA/web/raw/12.0/web_widget_color/images/picker.png</small>
+
+![[2-ocaweb-widget-color-2834-xa8e16333.png]]
+<small>原始地址: https://github.com/OCA/web/raw/12.0/web_widget_color/images/form_view.png</small>
+
+![[2-ocaweb-widget-color-2834-x75893cbe.png]]
+<small>原始地址: https://github.com/OCA/web/raw/12.0/web_widget_color/images/list_view.png</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

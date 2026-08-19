@@ -64,6 +64,33 @@ Odoo 15.0中，挪移到社区版使用的修改方法：[15.0版本条码模块
 
 出库时候，直接扫箱码，出库。
 
+
+## 原帖外链配图
+
+![[2-odoostock-barcode-2468-x194038c2.png]]
+<small>原始地址: /web/image/613/barcode1.png?access_token=21a8551c-dd12-42e0-ba53-251a436ae8b0</small>
+
+![[2-odoostock-barcode-2468-x194038c2.png]]
+<small>原始地址: /web/image/615/barcode2.png?access_token=0768c60b-6e26-4091-993c-13be904ab5d5</small>
+
+![[2-odoostock-barcode-2468-x194038c2.png]]
+<small>原始地址: /web/image/617/barcode3.png?access_token=983f7f34-7e5a-4761-9776-6c1165c09fd6</small>
+
+![[2-odoostock-barcode-2468-x194038c2.png]]
+<small>原始地址: /web/image/619/barcode4.png?access_token=0ba864a9-9e44-43d0-a53b-755faa64a717</small>
+
+![[2-odoostock-barcode-2468-x194038c2.png]]
+<small>原始地址: /web/image/621/barcode5.png?access_token=17211787-f7c2-4164-ba16-d5838646953c</small>
+
+![[2-odoostock-barcode-2468-x194038c2.png]]
+<small>原始地址: /web/image/623/barcode6.png?access_token=edbf67d2-efa8-4ecc-b535-c071361b27f2</small>
+
+![[2-odoostock-barcode-2468-x194038c2.png]]
+<small>原始地址: /web/image/625/barcode7.png?access_token=7e1fc455-e6c3-4486-bd1d-13c2d88ec8bf</small>
+
+![[2-odoostock-barcode-2468-x194038c2.png]]
+<small>原始地址: /web/image/781/barc01.png?access_token=4f963b96-297a-4f8a-b45b-8977fa46e874</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

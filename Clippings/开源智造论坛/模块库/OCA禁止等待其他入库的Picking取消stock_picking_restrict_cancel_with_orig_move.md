@@ -33,6 +33,12 @@ Odoo allows to cancel any picking in a chain of moves between locations, and wil
 
 This module restricts this possibility and displays an error to the user, listing all the stock pickings containing stock moves linked to the picking the user is trying to cancel, so he can delete the original, ensuring all the following pickings will be canceled as well.
 
+
+## 原帖外链配图
+
+![[2-ocapickingstock-picking-restrict-can-x194038c2.png]]
+<small>原始地址: /web/image/813/snipaste_20190119_145920.png?access_token=8320d365-9eb4-4394-b7a2-aa7031aa1e8a</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

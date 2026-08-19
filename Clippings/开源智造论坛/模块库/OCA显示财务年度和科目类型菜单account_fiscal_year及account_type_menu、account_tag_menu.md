@@ -27,6 +27,12 @@ tags:
 
 This module adds a menu entry *Account Tags* under *Accounting > Configuration > Accounting*, because this menu entry doesn't exists in the official *account* module of Odoo 11.
 
+
+## 原帖外链配图
+
+![[2-ocaaccount-fiscal-yearaccount-type-m-x194038c2.png]]
+<small>原始地址: /web/image/1148/snipaste_20190127_095249.png?access_token=977be6d5-101a-47d0-9bf5-faf5f70dab00</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

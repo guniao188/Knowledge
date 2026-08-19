@@ -25,6 +25,18 @@ tags:
 
 销售多单位：[/forum/2/question/ocasale-order-secondary-unit-2667](http://www.thinkltd.cn/forum/2/question/ocasale-order-secondary-unit-2667)
 
+
+## 原帖外链配图
+
+![[2-oca-purchase-order-secondary-unit-26-x194038c2.png]]
+<small>原始地址: /web/image/946/snipaste_20190120_182044.png?access_token=d353a070-86dc-48e0-9078-1796cc19c025</small>
+
+![[2-oca-purchase-order-secondary-unit-26-x194038c2.png]]
+<small>原始地址: /web/image/948/snipaste_20190120_182004.png?access_token=31b43b94-6038-425b-ac2a-2a64303d262a</small>
+
+![[2-oca-purchase-order-secondary-unit-26-x194038c2.png]]
+<small>原始地址: /web/image/950/snipaste_20190120_181824.png?access_token=c80e9895-2cdd-4eaa-b2a9-814c3723e219</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

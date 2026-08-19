@@ -62,6 +62,18 @@ V13链接：svn\odoo_ecommerce\13.0SRC\sale_stock_picking_blocking
 
 ![[2-ocasosale-stock-picking-blocking-2670-7218ef2e.png]]
 
+
+## 原帖外链配图
+
+![[2-ocasosale-stock-picking-blocking-267-x194038c2.png]]
+<small>原始地址: /web/image/1012/snipaste_20190121_102834.png?access_token=50b77917-db93-4a1f-a2f0-271340ee1235</small>
+
+![[2-ocasosale-stock-picking-blocking-267-x194038c2.png]]
+<small>原始地址: /web/image/1014/snipaste_20190121_102639.png?access_token=42dfb2a8-a764-4707-b105-8a8cde475445</small>
+
+![[2-ocasosale-stock-picking-blocking-267-x194038c2.png]]
+<small>原始地址: /web/image/1016/snipaste_20190121_102756.png?access_token=c26dbb57-89c7-4a8b-aefb-cc8b63c854ed</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

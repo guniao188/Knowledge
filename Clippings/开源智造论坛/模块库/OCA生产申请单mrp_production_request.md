@@ -52,6 +52,18 @@ To create MOs from MRs you have to:
 
 **NOTE:** This module does not restrict the quantity that can be converted from a MR to MOs. It is in hands of the user to decide when a MR is ended and to set it to *Done* state.
 
+
+## 原帖外链配图
+
+![[2-ocamrp-production-request-3014-x194038c2.png]]
+<small>原始地址: /web/image/1457/snipaste_20190310_133620.png?access_token=2691b97b-f116-4251-a4bd-0ad310bda99a</small>
+
+![[2-ocamrp-production-request-3014-x194038c2.png]]
+<small>原始地址: /web/image/1459/snipaste_20190310_133443.png?access_token=ea5ab780-49b6-4286-bda7-3457753a4d90</small>
+
+![[2-ocamrp-production-request-3014-x194038c2.png]]
+<small>原始地址: /web/image/1461/snipaste_20190310_134010.png?access_token=2e79222b-c89c-4517-a054-49bcae50d7f6</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

@@ -19,6 +19,12 @@ tags:
 
 参见另一个帖子上更详细的中文功能描述：[/forum/2/question/ocaweb-export-view-3133](http://www.thinkltd.cn/forum/2/question/ocaweb-export-view-3133)
 
+
+## 原帖外链配图
+
+![[2-ocaweb-export-view-2508-x194038c2.png]]
+<small>原始地址: /web/image/726/sm10.png?access_token=11aac86f-b806-432c-80fd-55f9a66252c7</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

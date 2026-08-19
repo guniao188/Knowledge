@@ -42,6 +42,12 @@ To unarchive sale orders, you need to:
 4.  Click on the Restore (Archived) smart button.
 5.  The sale order is now active.
 
+
+## 原帖外链配图
+
+![[2-ocasosale-order-archive-2673-x194038c2.png]]
+<small>原始地址: /web/image/1018/snipaste_20190121_103754.png?access_token=cbea48f6-5147-43d3-899e-4a8e39582a44</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

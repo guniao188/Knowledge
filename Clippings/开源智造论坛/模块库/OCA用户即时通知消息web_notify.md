@@ -45,6 +45,12 @@ or
 
 You can test the behaviour of the notifications by installing this module in a demo database. Access the users form through Settings -> Users & Companies. You'll see a tab called "Test web notify", here you'll find two buttons that'll allow you test the module.
 
+
+## 原帖外链配图
+
+![[2-ocaweb-notify-2833-xc821c6d5.png]]
+<small>原始地址: https://raw.githubusercontent.com/OCA/web/12.0/web_notify/static/description/test_notifications_demo.png</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

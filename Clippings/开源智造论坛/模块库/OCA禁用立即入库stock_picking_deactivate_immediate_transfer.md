@@ -21,6 +21,15 @@ tags:
 
 此模块禁用立即入库菜单，改成只能用计划入库菜单。
 
+
+## 原帖外链配图
+
+![[2-ocastock-picking-deactivate-immediat-x194038c2.png]]
+<small>原始地址: /web/image/825/snipaste_20190119_175006.png?access_token=4378114a-0374-49dd-9a68-3e1b1830784c</small>
+
+![[2-ocastock-picking-deactivate-immediat-x194038c2.png]]
+<small>原始地址: /web/image/827/snipaste_20190119_175057.png?access_token=fb35b08d-9ec4-4ca7-baec-ddbb934f2ddf</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

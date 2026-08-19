@@ -25,6 +25,12 @@ tags:
 
 This module updates a new field *Requested by* in Manufacturing Orders in the case the MO has been created as a result of a manual procurement from an orderpoint.
 
+
+## 原帖外链配图
+
+![[2-ocamomrp-stock-orderpoint-manual-pro-x194038c2.png]]
+<small>原始地址: /web/image/1473/snipaste_20190310_224310.png?access_token=3fcf09ee-0e88-4db4-b0c4-ec2ea56a69fb</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

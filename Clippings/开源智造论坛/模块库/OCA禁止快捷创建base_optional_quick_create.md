@@ -35,6 +35,12 @@ To use this module, you need to:
 > - select the model for which you want to disable the quick create option,
 > - enable the option *Avoid quick create*.
 
+
+## 原帖外链配图
+
+![[2-ocabase-optional-quick-create-2580-x194038c2.png]]
+<small>原始地址: /web/image/869/snipaste_20190119_235511.png?access_token=ad995d17-a19a-40d3-bb9a-d8a20c81e313</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

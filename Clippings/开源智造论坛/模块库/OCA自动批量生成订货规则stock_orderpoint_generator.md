@@ -35,6 +35,12 @@ By activating the "Create Rules Automatically" on a reordering rule template, yo
 
 Lastly, you can promptly create Reordering Rules for a product or a product template using the "Reordering Rules Generator". Note that it will replace all the existing rules for the product. You will usually not want to use this feature on products that have Automatic Reordering Rules Templates.
 
+
+## 原帖外链配图
+
+![[2-ocastock-orderpoint-generator-2856-x194038c2.png]]
+<small>原始地址: /web/image/1353/snipaste_20190215_122308.png?access_token=0cbc0a4b-db44-4c4e-900d-cfe22f96751a</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

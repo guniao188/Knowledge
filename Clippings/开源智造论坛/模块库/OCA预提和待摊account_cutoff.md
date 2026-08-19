@@ -69,6 +69,24 @@ To compute the prepaid revenue, go to the menu *Accounting > Cut-offs  > Prepaid
 
 If you need to answer a question such as *How much revenue did I already invoice for my next fiscal year ?*, you will be interested by the *forecast* feature. For that, on the Prepaid Revenue form, click on the *Forecast* option and you will see 2 new fields: *Start Date* and *End Date*. Enter the start date and the end date of your next fiscal year and click on the button *Re-Generate lines*: you will see all the revenue that you already have in your source journals for that period.
 
+
+## 原帖外链配图
+
+![[2-ocaaccount-cutoff-2747-x194038c2.png]]
+<small>原始地址: /web/image/1220/snipaste_20190127_215923.png?access_token=cfed12f4-8720-4572-82a1-703f8af00899</small>
+
+![[2-ocaaccount-cutoff-2747-x194038c2.png]]
+<small>原始地址: /web/image/1222/snipaste_20190127_220000.png?access_token=d1669831-3ce5-4254-ba4f-ebc4790e9bf5</small>
+
+![[2-ocaaccount-cutoff-2747-x194038c2.png]]
+<small>原始地址: /web/image/1224/snipaste_20190127_220152.png?access_token=a5176e67-8e03-48b9-afae-6d25d44a4d14</small>
+
+![[2-ocaaccount-cutoff-2747-x194038c2.png]]
+<small>原始地址: /web/image/1226/snipaste_20190127_221150.png?access_token=e9c47b10-99d4-405d-b22c-7027f55d8265</small>
+
+![[2-ocaaccount-cutoff-2747-x194038c2.png]]
+<small>原始地址: /web/image/1228/snipaste_20190127_221520.png?access_token=e5da984c-0513-4fa9-9010-af8ca85612f6</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

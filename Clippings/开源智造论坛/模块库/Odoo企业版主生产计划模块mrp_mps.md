@@ -37,6 +37,12 @@ Forecasted Inventory：期末数量。
 
 ![[2-odoomrp-mps-3088-04186060.png]]
 
+
+## 原帖外链配图
+
+![[2-odoomrp-mps-3088-x194038c2.png]]
+<small>原始地址: /web/image/1682/snipaste_20190610_200422.png?access_token=accac08a-752a-45be-9fbe-b9973049a0e3</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

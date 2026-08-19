@@ -29,6 +29,18 @@ tags:
 
 Partner上增加员工数量及数量范围字段：
 
+
+## 原帖外链配图
+
+![[2-ocapartner-contactpartner-employee-q-x194038c2.png]]
+<small>原始地址: /web/image/1297/snipaste_20190206_155001.png?access_token=707eb054-6d44-4d2e-baae-fbde8d8f56ce</small>
+
+![[2-ocapartner-contactpartner-employee-q-x194038c2.png]]
+<small>原始地址: /web/image/1299/snipaste_20190206_155121.png?access_token=a988e166-97c4-45a4-b5da-9777fc4d5303</small>
+
+![[2-ocapartner-contactpartner-employee-q-x194038c2.png]]
+<small>原始地址: /web/image/1301/snipaste_20190206_155337.png?access_token=3c924105-5ee8-4525-9110-3329f28137be</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

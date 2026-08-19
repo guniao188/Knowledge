@@ -27,6 +27,12 @@ This module was written to extend the functionality of procurement groups create
 
 On itself, this module does nothing it is a requirement for modules which needs to create procurement group per sale order line basis.
 
+
+## 原帖外链配图
+
+![[2-ocasale-procurement-group-by-line-26-x194038c2.png]]
+<small>原始地址: /web/image/1064/snipaste_20190121_183609.png?access_token=b0ec3e47-ef01-4406-940e-7eaf860939f5</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

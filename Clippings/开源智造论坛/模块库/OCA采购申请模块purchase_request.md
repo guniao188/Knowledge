@@ -123,6 +123,21 @@ This module computes the new PO state 'Approved' related to a Purchase Request L
 
 多层审批用法参考：[OCA审批工作流base_tier_validation、purchase_tier_validation、sale_tier_validation](http://www.thinkltd.cn/forum/2/question/ocabase-tier-validationpurchase-tier-validationsale-tier-validation-2588)
 
+
+## 原帖外链配图
+
+![[2-ocapurchase-request-2639-x194038c2.png]]
+<small>原始地址: /web/image/962/snipaste_20190120_203645.png?access_token=dc5572ad-df5d-454c-9995-b07fbfb13113</small>
+
+![[2-ocapurchase-request-2639-x194038c2.png]]
+<small>原始地址: /web/image/964/snipaste_20190120_204323.png?access_token=de699ef0-5265-4a8e-aa74-427d593da06d</small>
+
+![[2-ocapurchase-request-2639-x194038c2.png]]
+<small>原始地址: /web/image/966/snipaste_20190120_204526.png?access_token=27069399-d5ba-48f0-8117-e503018d9f33</small>
+
+![[2-ocapurchase-request-2639-x194038c2.png]]
+<small>原始地址: /web/image/968/snipaste_20190120_204533.png?access_token=9768f968-0eca-4895-9ab0-3329d556fec6</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

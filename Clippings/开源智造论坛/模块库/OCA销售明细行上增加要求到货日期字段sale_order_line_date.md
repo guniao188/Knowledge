@@ -27,6 +27,12 @@ This module adds requested date to a sales order lines and propagate it to stock
 
 Create a Quotation or a Sales Order and it fills the requested date in the sale order line
 
+
+## 原帖外链配图
+
+![[2-ocasale-order-line-date-2680-x194038c2.png]]
+<small>原始地址: /web/image/1040/snipaste_20190121_115826.png?access_token=7340e912-ab31-4088-a4bc-5d39d736b6ae</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]
