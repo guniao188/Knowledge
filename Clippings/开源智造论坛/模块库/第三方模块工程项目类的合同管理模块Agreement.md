@@ -86,6 +86,33 @@ This module is part of the [OCA/contract](https://github.com/OCA/contract/tree/1
 
 You are welcome to contribute. To learn how please visit [https://odoo-community.org/page/Contribute](https://odoo-community.org/page/Contribute).
 
+
+## 原帖外链配图
+
+![[2-agreement-3100-x799e5589.png]]
+<small>原始地址: https://img.shields.io/badge/maturity-Beta-yellow.png</small>
+
+![[2-agreement-3100-x1c52346f.png]]
+<small>原始地址: https://img.shields.io/badge/licence-AGPL--3-blue.png</small>
+
+![[2-agreement-3100-xeced997f.png]]
+<small>原始地址: https://img.shields.io/badge/github-OCA%2Fcontract-lightgray.png?logo=github</small>
+
+![[2-agreement-3100-xb02b89e4.png]]
+<small>原始地址: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png</small>
+
+![[2-agreement-3100-x7cf8c50b.png]]
+<small>原始地址: https://img.shields.io/badge/runbot-Try%20me-875A7B.png</small>
+
+![[2-agreement-3100-xdb7cb5c5.jpg]]
+<small>原始地址: https://github.com/smangukiya.png?size=40px</small>
+
+![[2-agreement-3100-x705e7dd3.jpg]]
+<small>原始地址: https://github.com/ygol.png?size=40px</small>
+
+![[2-agreement-3100-xd7f6635e.jpg]]
+<small>原始地址: https://github.com/max3903.png?size=40px</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

@@ -31,6 +31,12 @@ tags:
 
 4）业务测试
 
+
+## 原帖外链配图
+
+![[1-odoo-329-x194038c2.png]]
+<small>原始地址: /web/image/1838/TIM%E6%88%AA%E5%9B%BE20190711175559.png?access_token=81b30bda-d304-408a-96a8-8cde8133c111</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/求助台/00-求助台索引.md|← 求助台索引]]

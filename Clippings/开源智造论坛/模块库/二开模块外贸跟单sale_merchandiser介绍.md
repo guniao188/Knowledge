@@ -88,6 +88,18 @@ sale_supplier模块这里我代码里发现了一个问题，不知道是不是�
 
 请参考SVN目录：F:\SVN\odoo_ecommerce\06.Customization\魔数\addons
 
+
+## 原帖外链配图
+
+![[2-sale-merchandiser-2496-x194038c2.png]]
+<small>原始地址: /web/image/708/sm1.png?access_token=4cf007b6-94e4-40af-bc82-60ebb05b7d36</small>
+
+![[2-sale-merchandiser-2496-x194038c2.png]]
+<small>原始地址: /web/image/710/sm2.png?access_token=05dd6a58-7cf7-4f1c-ab77-8e388fa56533</small>
+
+![[2-sale-merchandiser-2496-x194038c2.png]]
+<small>原始地址: /web/image/712/sm3.png?access_token=a37f0a58-c64b-4419-bd9b-f707b7207729</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

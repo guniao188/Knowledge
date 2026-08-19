@@ -43,6 +43,12 @@ To use this module, you need to:
 
 Based on this configuration, you will see the product images in website.
 
+
+## 原帖外链配图
+
+![[2-website-multi-image-zoom-2824-x194038c2.png]]
+<small>原始地址: /web/image/1323/scroll2.png?access_token=7aaaab42-fddc-41e1-9e0b-9997102721ef</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

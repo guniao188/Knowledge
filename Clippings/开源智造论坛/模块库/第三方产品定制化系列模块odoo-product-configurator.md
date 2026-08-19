@@ -59,6 +59,33 @@ F:\Odoo12\myaddons\product_configurator\wizard\product_configurator.py(259):    
 
 product_configurator_sale：
 
+
+## 原帖外链配图
+
+![[2-odoo-product-configurator-3026-x194038c2.png]]
+<small>原始地址: /web/image/1524/snipaste_20190327_113851.png?access_token=60107d42-c8d2-4dad-b20f-f19ef6b2500e</small>
+
+![[2-odoo-product-configurator-3026-x194038c2.png]]
+<small>原始地址: /web/image/1526/snipaste_20190327_114118.png?access_token=b2edcd36-39c7-4059-ac62-9fad66ecae64</small>
+
+![[2-odoo-product-configurator-3026-x194038c2.png]]
+<small>原始地址: /web/image/1528/snipaste_20190327_114237.png?access_token=fe952d39-0489-43f5-ac02-e81c5c16f42d</small>
+
+![[2-odoo-product-configurator-3026-x194038c2.png]]
+<small>原始地址: /web/image/1530/snipaste_20190327_114308.png?access_token=08d65c08-ec29-4d3a-a391-51bf491ebe1a</small>
+
+![[2-odoo-product-configurator-3026-x194038c2.png]]
+<small>原始地址: /web/image/1532/snipaste_20190327_114335.png?access_token=064d9c51-bf18-4b35-92ea-001c30d031ce</small>
+
+![[2-odoo-product-configurator-3026-x194038c2.png]]
+<small>原始地址: /web/image/1534/snipaste_20190327_114407.png?access_token=aeda3525-8d52-4fd0-adf5-575f9c621737</small>
+
+![[2-odoo-product-configurator-3026-x194038c2.png]]
+<small>原始地址: /web/image/1536/snipaste_20190327_150413.png?access_token=ec382d7c-94e5-46bd-b61d-205de4467834</small>
+
+![[2-odoo-product-configurator-3026-x194038c2.png]]
+<small>原始地址: /web/image/1538/snipaste_20190327_150729.png?access_token=5b76adf9-9757-4024-b431-46be433e7236</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

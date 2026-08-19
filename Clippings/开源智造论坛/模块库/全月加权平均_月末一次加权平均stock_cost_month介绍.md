@@ -83,6 +83,21 @@ tags:
 
 该模块已升级到Odoo 14.0：OSCG_SVN\odoo_ecommerce\14.0SRC\存货核算\stock_cost_month
 
+
+## 原帖外链配图
+
+![[2-stock-cost-month-2465-x194038c2.png]]
+<small>原始地址: /web/image/598/mc1.png?access_token=f9a888b7-d926-49fa-af3f-5bb554719616</small>
+
+![[2-stock-cost-month-2465-x194038c2.png]]
+<small>原始地址: /web/image/600/mc2.png?access_token=f62e5ddf-2aed-407b-a3f9-d10af7461d81</small>
+
+![[2-stock-cost-month-2465-x194038c2.png]]
+<small>原始地址: /web/image/602/mc3.png?access_token=12beacf7-a9d4-4f32-8691-14cabc51d177</small>
+
+![[2-stock-cost-month-2465-x194038c2.png]]
+<small>原始地址: /web/image/604/mc4.png?access_token=8fab3fb0-a7e4-4a3e-b40f-b569e988d033</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

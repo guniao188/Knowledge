@@ -27,6 +27,12 @@ tags:
 
 本模块修改stock.warehouse.orderpoint的方法_get_date_planned，首先判断最小最大数量都为0的话，取最近的要货的Stock Move的date日期作为计划要货日期。如果最小最大数量不为0的话，按系统原有逻辑计算计划补货日期。
 
+
+## 原帖外链配图
+
+![[2-mtsstock-mts-dateplan-3098-x194038c2.png]]
+<small>原始地址: /web/image/1716/TIM%E6%88%AA%E5%9B%BE20190626152120.png?access_token=7fbcb91b-7dc8-4068-953a-38514c8a5461</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

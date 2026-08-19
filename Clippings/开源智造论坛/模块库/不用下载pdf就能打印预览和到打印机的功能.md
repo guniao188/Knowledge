@@ -49,6 +49,15 @@ https://apps.odoo.com/apps/modules/14.0/report_pdf_options/
 
 ![[2-pdf-3409-4c1c3a81.png]]
 
+
+## 原帖外链配图
+
+![[2-pdf-3409-x384ac419.gif]]
+<small>原始地址: https://apps.odoocdn.com/apps/assets/14.0/report_pdf_options/printoptions.gif?ce0a822</small>
+
+![[2-pdf-3409-x3eceb763.gif]]
+<small>原始地址: https://apps.odoocdn.com/apps/assets/14.0/report_pdf_options/setupoptions.gif?ce0a822</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

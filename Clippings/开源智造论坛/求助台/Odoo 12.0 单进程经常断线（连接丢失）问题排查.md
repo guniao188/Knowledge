@@ -25,6 +25,18 @@ limit_memory_soft 系统默认设置是 2 G，limit_memory_hard默认设置是2.
 limit_memory_soft的意思是，如果某个请求（事务）内存消耗达到limit_memory_soft，则该请求处理结束，立即终止该Odoo进程。
 limit_memory_hard的意思是，如果某个请求（事务）内存消耗达到limit_memory_hard，则立即终止该Odoo进程(不会等待该请求处理结束)。
 
+
+## 原帖外链配图
+
+![[1-odoo-12-0-324-x194038c2.png]]
+<small>原始地址: /web/image/1744/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190701133132.jpg?access_token=a9aa7e99-599a-43d5-a8ea-b</small>
+
+![[1-odoo-12-0-324-x194038c2.png]]
+<small>原始地址: /web/image/1740/snipaste_20190701_124219.png?access_token=0f852134-7402-43c4-973b-505fe8b64eae</small>
+
+![[1-odoo-12-0-324-x194038c2.png]]
+<small>原始地址: /web/image/1742/snipaste_20190701_124313.png?access_token=805a06b2-162f-4bfe-bb08-03bb91284c25</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/求助台/00-求助台索引.md|← 求助台索引]]

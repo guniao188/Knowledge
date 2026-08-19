@@ -66,6 +66,12 @@ class SaleOrder(models.Model):
         return res
 ```
 
+
+## 原帖外链配图
+
+![[1-odoo-270-x194038c2.png]]
+<small>原始地址: /web/image/1543/snipaste_20190329_155915.png?access_token=a8aa23cd-e414-4a0e-a8d8-2060c1b07faa</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/求助台/00-求助台索引.md|← 求助台索引]]

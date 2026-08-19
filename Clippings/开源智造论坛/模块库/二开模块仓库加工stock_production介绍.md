@@ -151,6 +151,36 @@ https://www.processon.com/view/link/625693bd7d9c080729c0e14a
 
 加工费的供应商账单需要用虚拟的产品哦，不然，带上税率，开启了saxson的话，就会生成的赁证有材料成本差异科目金额！
 
+
+## 原帖外链配图
+
+![[2-stock-production-2481-x194038c2.png]]
+<small>原始地址: /web/image/645/sp1.png?access_token=a861f041-9dd2-4c46-bee4-fb0536e59c14</small>
+
+![[2-stock-production-2481-x194038c2.png]]
+<small>原始地址: /web/image/647/sp2.png?access_token=41b40128-43a3-4717-be5a-7dcc646ec692</small>
+
+![[2-stock-production-2481-x194038c2.png]]
+<small>原始地址: /web/image/649/sp3.png?access_token=68c91143-51b7-4fea-ad91-13012d2a51f8</small>
+
+![[2-stock-production-2481-x194038c2.png]]
+<small>原始地址: /web/image/651/sp4.png?access_token=17be1cf8-c75a-44e7-9639-b2d97bd48270</small>
+
+![[2-stock-production-2481-x194038c2.png]]
+<small>原始地址: /web/image/653/sp5.png?access_token=ff3289d2-bbce-4b2a-9c54-b738c0bb5bc0</small>
+
+![[2-stock-production-2481-x194038c2.png]]
+<small>原始地址: /web/image/655/sp6.png?access_token=954bcf1b-ca03-4ab8-8fda-b0a5e6ed04e4</small>
+
+![[2-stock-production-2481-x194038c2.png]]
+<small>原始地址: /web/image/657/sp7.png?access_token=d3c51e6e-6c6b-4ebe-9161-caee7f090ff9</small>
+
+![[2-stock-production-2481-x194038c2.png]]
+<small>原始地址: /web/image/659/sp8.png?access_token=4f9a0d43-a5cf-4622-ba5d-52aa5f3f95b3</small>
+
+![[2-stock-production-2481-x194038c2.png]]
+<small>原始地址: /web/image/661/sp9.png?access_token=db42fcc7-2a4e-4e28-aba8-43d52eb899e7</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

@@ -58,6 +58,21 @@ tags:
 
 ![[2-stock-inter-transfer-2476-89da1843.png]]
 
+
+## 原帖外链配图
+
+![[2-stock-inter-transfer-2476-x194038c2.png]]
+<small>原始地址: /web/image/637/st1.png?access_token=9153a867-e8a7-41a5-b22f-f015c4cd4168</small>
+
+![[2-stock-inter-transfer-2476-x194038c2.png]]
+<small>原始地址: /web/image/639/st2.png?access_token=002de567-f27b-4f57-9041-d085922732de</small>
+
+![[2-stock-inter-transfer-2476-x194038c2.png]]
+<small>原始地址: /web/image/641/st3.png?access_token=eae10c8d-1c16-4e95-8f22-a7a8a90dcd4d</small>
+
+![[2-stock-inter-transfer-2476-x194038c2.png]]
+<small>原始地址: /web/image/643/st4.png?access_token=aca2a236-fdb3-40ab-a3c2-fc85d9f62992</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

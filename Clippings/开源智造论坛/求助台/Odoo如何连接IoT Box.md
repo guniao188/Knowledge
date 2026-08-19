@@ -23,6 +23,18 @@ tags:
 
 3.  点击扫描到的IoT Box链接，进入Iot box配置界面，在该界面，将Server端的Token复制到IoT Box，Iot box保留该Token（存在本地conf文件中），并调用Server端IP主动上传Box及设备信息给Server，Server收到信息即创建IoT box和Device。
 
+
+## 原帖外链配图
+
+![[1-odooiot-box-259-x194038c2.png]]
+<small>原始地址: /web/image/1498/snipaste_20190316_111339.png?access_token=e7c642a4-50b4-4a85-8e53-5f6fe25e12a9</small>
+
+![[1-odooiot-box-259-x194038c2.png]]
+<small>原始地址: /web/image/1500/snipaste_20190316_111655.png?access_token=e76c3823-3d2f-4b9e-9a7b-d3641c4ae404</small>
+
+![[1-odooiot-box-259-x194038c2.png]]
+<small>原始地址: /web/image/1502/snipaste_20190316_111817.png?access_token=68327477-aa72-4279-8a40-34550315f813</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/求助台/00-求助台索引.md|← 求助台索引]]

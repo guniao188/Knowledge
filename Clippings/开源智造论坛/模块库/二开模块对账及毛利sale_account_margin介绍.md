@@ -115,6 +115,33 @@ Odoo14.0中，此模块废弃，拆成下面三个模块：
 
 5)    财务复核税票
 
+
+## 原帖外链配图
+
+![[2-sale-account-margin-2505-x194038c2.png]]
+<small>原始地址: /web/image/716/sm5.png?access_token=4892de22-7e92-49ce-a10b-c9497aead143</small>
+
+![[2-sale-account-margin-2505-x194038c2.png]]
+<small>原始地址: /web/image/718/sm6.png?access_token=3a3efa74-94d7-4663-baa8-b5843dd3a37b</small>
+
+![[2-sale-account-margin-2505-x194038c2.png]]
+<small>原始地址: /web/image/720/sm7.png?access_token=570b2904-d4b8-4faf-8deb-f31d51082161</small>
+
+![[2-sale-account-margin-2505-x194038c2.png]]
+<small>原始地址: /web/image/722/sm8.png?access_token=12691f54-9b78-4e34-8f70-0b27dd336181</small>
+
+![[2-sale-account-margin-2505-x194038c2.png]]
+<small>原始地址: /web/image/724/sm9.png?access_token=70b564c8-1763-44f7-a76b-0d48da10927c</small>
+
+![[2-sale-account-margin-2505-x194038c2.png]]
+<small>原始地址: /web/image/726/sm10.png?access_token=11aac86f-b806-432c-80fd-55f9a66252c7</small>
+
+![[2-sale-account-margin-2505-x194038c2.png]]
+<small>原始地址: /web/image/728/sm11.png?access_token=64db17e1-767c-4dca-b4f9-44df84e645ec</small>
+
+![[2-sale-account-margin-2505-x194038c2.png]]
+<small>原始地址: /web/image/732/sm12.png?access_token=18fbb615-edd7-48d2-b921-0f51b6de12b3</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

@@ -36,6 +36,12 @@ tags:
 - User can clear signature using clear button and it will re-initialize the signature.
 -
 
+
+## 原帖外链配图
+
+![[2-web-digital-sign-2825-x194038c2.png]]
+<small>原始地址: /web/image/1325/sign2.png?access_token=520b80ef-31e2-4a07-93ef-8ecd457e72c0</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

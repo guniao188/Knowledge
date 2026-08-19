@@ -23,6 +23,12 @@ Odoo 12.0企业版模块 iot，在报表对象 ir.actions.report 上增加了打
 
 [Odoo如何连接IoT Box: /forum/1/question/odooiot-box-259](http://www.thinkltd.cn/forum/1/question/odooiot-box-259)
 
+
+## 原帖外链配图
+
+![[1-iot-boxpdf-258-x194038c2.png]]
+<small>原始地址: /web/image/1496/snipaste_20190316_110126.png?access_token=32e9c713-ca5e-4e9a-9168-44020fbd7430</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/求助台/00-求助台索引.md|← 求助台索引]]

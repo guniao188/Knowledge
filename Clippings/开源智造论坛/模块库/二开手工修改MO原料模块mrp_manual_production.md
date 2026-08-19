@@ -45,6 +45,12 @@ tags:
 4）本模块在BoM上增加了一个“原料自动确认”标志，该标志默认值为True，如果设置为False，则MO保存时候，系统会展开MO的原料，但不会自动确认原料Stock Move，而是要另外点击按钮“原料确认”。如此，因而有机会对原料Stock Move进行增删改。
 5）MO的投料明细上，增加按钮“添加原料”，可以添加BoM上没有的原料
 
+
+## 原帖外链配图
+
+![[2-momrp-manual-production-3106-x194038c2.png]]
+<small>原始地址: /web/image/1924/mo1.png?access_token=912a271c-01da-43f8-a091-83a9f4f219d8</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

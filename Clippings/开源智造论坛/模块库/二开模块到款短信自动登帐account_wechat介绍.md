@@ -26,6 +26,12 @@ tags:
 
 贷 银行存款
 
+
+## 原帖外链配图
+
+![[2-account-wechat-2510-x194038c2.png]]
+<small>原始地址: /web/image/734/acc1.png?access_token=763bd291-1483-41ec-9502-ef1d6e259a70</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

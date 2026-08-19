@@ -40,6 +40,18 @@ tags:
 
 ![[2-sale-order-lot-pack-selection-2789-68603ee2.png]]
 
+
+## 原帖外链配图
+
+![[2-sale-order-lot-pack-selection-2789-x194038c2.png]]
+<small>原始地址: /web/image/1251/snipaste_20190203_195818.png?access_token=af748cb2-ad23-4f2d-95b5-94127a784991</small>
+
+![[2-sale-order-lot-pack-selection-2789-x194038c2.png]]
+<small>原始地址: /web/image/1255/snipaste_20190203_201333.png?access_token=147207ce-d482-4dff-8fcd-45a12f26981e</small>
+
+![[2-sale-order-lot-pack-selection-2789-x194038c2.png]]
+<small>原始地址: /web/image/1253/snipaste_20190203_195041.png?access_token=32c239fe-8c13-409c-af0b-4122196e4714</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

@@ -180,6 +180,12 @@ D:\SVN\odoo_ecommerce\12.0SRC\微信小程序
 
 正泰的小程序模块路径是 /odoo/custom/xcx，其中包含小程序需要的3个模块 【oejia_weshop,  oejia_weshop_ent,  task_queue】
 
+
+## 原帖外链配图
+
+![[2-h5oejia-weshop-12-0-3361-x1f82576f.jpg]]
+<small>原始地址: https://raw.githubusercontent.com/JoneXiong/oejia_weshop/master/static/description/odoo_wxapp.jpg</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

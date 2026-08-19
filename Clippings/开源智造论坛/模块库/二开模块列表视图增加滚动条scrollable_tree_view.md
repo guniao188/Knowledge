@@ -19,6 +19,12 @@ tags:
 
 模块链接：OSCG_SVN\odoo_ecommerce\12.0SRC\scrollable_tree_view
 
+
+## 原帖外链配图
+
+![[2-scrollable-tree-view-3094-x194038c2.png]]
+<small>原始地址: /web/image/1692/main_screenshot.jpg?access_token=efe7b851-3116-4e51-99f1-4e794dbcf19c</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

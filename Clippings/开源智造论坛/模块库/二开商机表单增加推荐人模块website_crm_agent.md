@@ -29,6 +29,18 @@ tags:
 
 提交的商机上有推荐人：
 
+
+## 原帖外链配图
+
+![[2-website-crm-agent-3040-x194038c2.png]]
+<small>原始地址: /web/image/1591/%E5%B1%9E%E6%80%A7%E9%80%89%E6%8B%A9.png?access_token=cd82be2e-a1e3-4efa-a1ba-264e17a5e1a2</small>
+
+![[2-website-crm-agent-3040-x194038c2.png]]
+<small>原始地址: /web/image/1593/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190421003359.jpg?access_token=a6026588-627c-4bc3-b4b5-3</small>
+
+![[2-website-crm-agent-3040-x194038c2.png]]
+<small>原始地址: /web/image/1595/snipaste_20190421_003627.png?access_token=a6311d66-c89b-43a9-9add-de0d21787329</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]
