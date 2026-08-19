@@ -36,6 +36,21 @@ Select the number of depth you want to display and finally click on `Print Graph
 
 The result for the `ir.model` will be:
 
+
+## 原帖外链配图
+
+![[2-smileodoosmile-model-graph-3063-xd8d003dd.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_model_graph/static/description/menu_models.png</small>
+
+![[2-smileodoosmile-model-graph-3063-x66127edc.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_model_graph/static/description/ir_model.png</small>
+
+![[2-smileodoosmile-model-graph-3063-x9a70ed5b.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_model_graph/static/description/models_graph.png</small>
+
+![[2-smileodoosmile-model-graph-3063-x13d2da30.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_model_graph/static/description/model_graph.png</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

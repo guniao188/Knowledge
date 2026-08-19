@@ -55,6 +55,15 @@ To configure this module, you need to:
 
 - Go to new menu **Settings > Users & Companies > Users** and create a new user, choose the profile and after saving you will have user access rights set.
 
+
+## 原帖外链配图
+
+![[2-smilesmile-access-control-3061-x194038c2.png]]
+<small>原始地址: /web/image/1656/snipaste_20190531_211952.png?access_token=4fbc4abb-c271-4542-8478-933db8b68f0a</small>
+
+![[2-smilesmile-access-control-3061-x194038c2.png]]
+<small>原始地址: /web/image/1658/snipaste_20190531_212011.png?access_token=7b088872-03b0-4395-a95b-dbc3ad4ba28e</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

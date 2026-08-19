@@ -114,6 +114,33 @@ You can also print a graph of specific module:
     >
     >
 
+
+## 原帖外链配图
+
+![[2-smilesmile-module-graph-3064-x4d9774e4.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_module_graph/static/description/modules_graph_form.png</small>
+
+![[2-smilesmile-module-graph-3064-xf5359835.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_module_graph/static/description/print_graph.png</small>
+
+![[2-smilesmile-module-graph-3064-x888dbbe5.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_module_graph/static/description/installed_modules_graph</small>
+
+![[2-smilesmile-module-graph-3064-x97118d37.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_module_graph/static/description/selected_modules.png</small>
+
+![[2-smilesmile-module-graph-3064-x5573b64d.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_module_graph/static/description/print_modules_graph.png</small>
+
+![[2-smilesmile-module-graph-3064-x2adc64a1.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_module_graph/static/description/resultant_graph.png</small>
+
+![[2-smilesmile-module-graph-3064-x601aecf6.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_module_graph/static/description/graph_of_module.png</small>
+
+![[2-smilesmile-module-graph-3064-x8a11fc9c.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_module_graph/static/description/crm_graph.png</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

@@ -34,6 +34,15 @@ tags:
 
 模块安装以后，进入自动动作的Form编辑，去掉注释，放出所有本模块添加的字段
 
+
+## 原帖外链配图
+
+![[2-smilesmile-base-automation-3048-x194038c2.png]]
+<small>原始地址: /web/image/1652/snipaste_20190531_184037.png?access_token=ff206876-d1ce-4b24-97bd-2c707f7afdc8</small>
+
+![[2-smilesmile-base-automation-3048-x194038c2.png]]
+<small>原始地址: /web/image/1654/snipaste_20190531_184514.png?access_token=df63792e-77e2-49de-a6fc-50ae6c255147</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

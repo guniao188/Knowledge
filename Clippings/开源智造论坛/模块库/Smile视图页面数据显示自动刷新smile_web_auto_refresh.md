@@ -65,6 +65,15 @@ To configure this module, you need to:
 
 5.  The original view in display mode will be auto refreshed.
 
+
+## 原帖外链配图
+
+![[2-smilesmile-web-auto-refresh-3054-xffb0da0f.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_web_auto_refresh/static/description/window_action.png</small>
+
+![[2-smilesmile-web-auto-refresh-3054-xf276e76a.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_web_auto_refresh/static/description/automated_action.pn</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

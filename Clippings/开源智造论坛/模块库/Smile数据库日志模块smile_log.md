@@ -102,6 +102,15 @@ To create the scheduled action:
     >
     >
 
+
+## 原帖外链配图
+
+![[2-smilesmile-log-3047-xcdef94f9.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_log/static/description/scheduled_action.png</small>
+
+![[2-smilesmile-log-3047-x92d1c247.png]]
+<small>原始地址: https://github.com/Smile-SA/odoo_addons/raw/12.0/smile_log/static/description/exported_log.png</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]
