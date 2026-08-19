@@ -1,0 +1,24 @@
+---
+title: "Odoo多进程及SSL及Nginx部署参考文档"
+source: "http://www.thinkltd.cn/forum/1/odoosslnginx-269"
+forum: "求助台"
+author: "肖相扶"
+published: 2022-12-15
+created: 2026-08-17
+tags:
+  - clippings
+  - odoo
+  - 论坛/求助台
+---
+
+# Odoo多进程及SSL及Nginx部署参考文档
+
+> [!info] 来源
+> 开源智造论坛 · 求助台 | 作者:肖相扶 | 2022-12-15
+> <http://www.thinkltd.cn/forum/1/odoosslnginx-269>
+
+参考Odoo官方文档链接：
+
+---
+
+相关:[[Clippings/开源智造论坛/求助台/00-求助台索引.md|← 求助台索引]]

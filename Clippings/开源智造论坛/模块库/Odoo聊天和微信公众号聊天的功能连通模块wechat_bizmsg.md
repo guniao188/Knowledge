@@ -1,0 +1,52 @@
+---
+title: "Odoo聊天和微信公众号聊天的功能连通模块wechat_bizmsg"
+source: "http://www.thinkltd.cn/forum/2/odoowechat-bizmsg-3936"
+forum: "模块库"
+author: "吴键"
+published: 2024-06-12
+created: 2026-08-17
+tags:
+  - clippings
+  - odoo
+  - 论坛/模块库
+---
+
+# Odoo聊天和微信公众号聊天的功能连通模块wechat_bizmsg
+
+> [!info] 来源
+> 开源智造论坛 · 模块库 | 作者:吴键 | 2024-06-12
+> <http://www.thinkltd.cn/forum/2/odoowechat-bizmsg-3936>
+
+模块链接：
+
+oscg-china/extra-addons/-/tree/17.0/wechat_bizmsg
+
+【模块功能】
+
+1.     用户关注公众号后，在odoo中自动创建用户+自动登录，引导用户到预期模块：官方网站/电子商务网站等。
+
+2.     公众号的聊天功能与odoo的聊天功能打通，实现互动：文字，语音，图片，视频等。
+
+【模块安装说明】
+
+1.     pip install wechatpy
+
+2.     pip install ffmpy
+
+3.     sudo apt-get install ffmpeg
+
+【公众号后台配置说明】
+
+1.
+
+2.
+
+3.创建菜单
+
+【odoo后台配置】
+
+1.配置token,参见【微信公众号后台配置说明】
+
+---
+
+相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

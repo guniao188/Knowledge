@@ -5,5 +5,11 @@
   "calendar",
   "quickadd",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-markmind",
+  "homepage",
+  "recent-files-obsidian",
+  "omnisearch",
+  "tag-wrangler",
+  "obsidian-tasks-plugin"
 ]
