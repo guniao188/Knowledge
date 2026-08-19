@@ -29,6 +29,15 @@ In the form view, a new tab is added that lists the previous revisions, with the
 
 The old revisions of a sale order are flagged as inactive, so they don't clutter up searches.
 
+
+## 原帖外链配图
+
+![[2-sosale-order-revisionsale-isolated-q-x194038c2.png]]
+<small>原始地址: /web/image/1020/snipaste_20190121_105427.png?access_token=7b659b3c-c3cd-4c52-9a8a-043c6fad57c5</small>
+
+![[2-sosale-order-revisionsale-isolated-q-x194038c2.png]]
+<small>原始地址: /web/image/1022/snipaste_20190121_105341.png?access_token=3c8d8470-9add-437f-afab-b7ffbe9b5691</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

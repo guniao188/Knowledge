@@ -44,6 +44,15 @@ Other useful fields :
 - **Special date changer** : If a specific line in a report should not use the same dates as the rest of the report.
 - **Show domain** : How the domain of a line is displayed. Can be foldable (`default`, hidden at the start but can be unfolded), `always` (always displayed) or `never` (never shown).
 
+
+## 原帖外链配图
+
+![[2-odooaccount-reports-2467-x194038c2.png]]
+<small>原始地址: /web/image/606/acc_report1.png?access_token=c1f1dcf5-a19d-47d4-8432-316835c12775</small>
+
+![[2-odooaccount-reports-2467-x194038c2.png]]
+<small>原始地址: /web/image/608/acc_report2.png?access_token=90cde64c-36b2-473e-bd55-89d11232a840</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

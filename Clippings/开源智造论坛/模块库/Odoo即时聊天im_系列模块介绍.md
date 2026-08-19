@@ -62,6 +62,36 @@ class MailChannel(models.Model):
         partner = self.env.user.partner_id
 ```
 
+
+## 原帖外链配图
+
+![[2-odooim-3030-x194038c2.png]]
+<small>原始地址: /web/image/1569/snipaste_20190331_213422.png?access_token=f7b1c460-33eb-4de7-9315-a3d50eb3d5b2</small>
+
+![[2-odooim-3030-x194038c2.png]]
+<small>原始地址: /web/image/1571/snipaste_20190331_211640.png?access_token=68a0c7fb-e0e6-40e2-88da-62d8778bb5d4</small>
+
+![[2-odooim-3030-x194038c2.png]]
+<small>原始地址: /web/image/1573/snipaste_20190331_211058.png?access_token=12e8f62e-5fc7-4e7e-ba27-af4019546520</small>
+
+![[2-odooim-3030-x194038c2.png]]
+<small>原始地址: /web/image/1575/snipaste_20190331_213831.png?access_token=f585fef5-857e-4309-9398-373e87ee26ef</small>
+
+![[2-odooim-3030-x194038c2.png]]
+<small>原始地址: /web/image/1577/snipaste_20190331_214036.png?access_token=424a4fcd-67de-492b-a4d1-3a3cbe456429</small>
+
+![[2-odooim-3030-x194038c2.png]]
+<small>原始地址: /web/image/1583/snipaste_20190331_221407.png?access_token=973fcd05-6c0b-4521-bb63-dcdc26a56455</small>
+
+![[2-odooim-3030-x194038c2.png]]
+<small>原始地址: /web/image/1579/snipaste_20190331_215639.png?access_token=105f2315-21b4-414c-b685-bab827ef9a05</small>
+
+![[2-odooim-3030-x194038c2.png]]
+<small>原始地址: /web/image/1581/snipaste_20190331_215625.png?access_token=2937566e-dae0-4b4d-bdb8-975f22a192ba</small>
+
+![[2-odooim-3030-x194038c2.png]]
+<small>原始地址: /web/image/1585/snipaste_20190331_222106.png?access_token=b0b6a309-96e0-4da0-8e04-bbfd79299eab</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

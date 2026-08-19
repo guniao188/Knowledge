@@ -89,6 +89,12 @@ stock_quant_manual_assign
 
 ![[2-picking-quantstock-quant-manual-assign-2870-19782d0d.png]]
 
+
+## 原帖外链配图
+
+![[2-picking-quantstock-quant-manual-assi-x194038c2.png]]
+<small>原始地址: /web/image/1365/snipaste_20190215_142506.png?access_token=124f2c91-b7e9-4c6e-b1b7-b6113016356d</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

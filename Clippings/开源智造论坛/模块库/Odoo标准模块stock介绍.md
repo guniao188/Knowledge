@@ -131,6 +131,24 @@ l  **补货组：**Stock Move Confirm时候，系统根据Stock Move上的补货
 
 - l  **默认目的位置：**新建该作业类型的作业单据时候，默认的到库库位（目标库位）
 
+
+## 原帖外链配图
+
+![[2-odoostock-2472-x194038c2.png]]
+<small>原始地址: /web/image/627/stock10.png?access_token=f288c2df-35e5-47cb-b355-e1720dfedcd1</small>
+
+![[2-odoostock-2472-x194038c2.png]]
+<small>原始地址: /web/image/633/stock13.png?access_token=7deddcb1-65f9-4221-ac00-3ad3f3a9ecfd</small>
+
+![[2-odoostock-2472-x194038c2.png]]
+<small>原始地址: /web/image/635/stock14.png?access_token=3fc761d5-d866-4da0-9652-1e0f35761a11</small>
+
+![[2-odoostock-2472-x194038c2.png]]
+<small>原始地址: /web/image/629/stock11.png?access_token=8d589dc3-fb56-4b62-9f25-508316e92eaa</small>
+
+![[2-odoostock-2472-x194038c2.png]]
+<small>原始地址: /web/image/631/stock12.png?access_token=9d2b7dea-3cfa-4dcc-b8d3-552432d277bf</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

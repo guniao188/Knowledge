@@ -47,6 +47,36 @@ oscg-china/extra-addons/-/tree/17.0/wechat_bizmsg
 
 1.配置token,参见【微信公众号后台配置说明】
 
+
+## 原帖外链配图
+
+![[2-odoowechat-bizmsg-3936-xf0341847.png]]
+<small>原始地址: /web/image/7915-f0341847/1</small>
+
+![[2-odoowechat-bizmsg-3936-x895d6599.png]]
+<small>原始地址: /web/image/7916-895d6599/1</small>
+
+![[2-odoowechat-bizmsg-3936-xadc8c10f.png]]
+<small>原始地址: /web/image/7917-adc8c10f/1</small>
+
+![[2-odoowechat-bizmsg-3936-x59c41ec7.png]]
+<small>原始地址: /web/image/7918-59c41ec7/1</small>
+
+![[2-odoowechat-bizmsg-3936-xab5e59e7.png]]
+<small>原始地址: /web/image/7919-ab5e59e7/1</small>
+
+![[2-odoowechat-bizmsg-3936-x34881a6e.png]]
+<small>原始地址: /web/image/7920-34881a6e/1</small>
+
+![[2-odoowechat-bizmsg-3936-x1a7a9a86.png]]
+<small>原始地址: /web/image/7921-1a7a9a86/1</small>
+
+![[2-odoowechat-bizmsg-3936-x2eed2f84.png]]
+<small>原始地址: /web/image/7922-2eed2f84/1</small>
+
+![[2-odoowechat-bizmsg-3936-x8a1874d1.png]]
+<small>原始地址: /web/image/7923-8a1874d1/1</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

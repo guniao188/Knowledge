@@ -41,6 +41,18 @@ tags:
 
 5.      分摊对应的会计分录：库存商品增加10 元，其中10 * (8 – 5) / 8 = 3.75 元已经出库，转为主营业务成本。
 
+
+## 原帖外链配图
+
+![[2-odoostock-landed-cost-2461-x194038c2.png]]
+<small>原始地址: /web/image/580/LC1.png?access_token=61c5cf1c-5191-4f20-b755-aeeafc5a9269</small>
+
+![[2-odoostock-landed-cost-2461-x194038c2.png]]
+<small>原始地址: /web/image/582/LC2.png?access_token=479160f4-e729-4f41-ab1d-c8f754590908</small>
+
+![[2-odoostock-landed-cost-2461-x194038c2.png]]
+<small>原始地址: /web/image/584/LC3.png?access_token=7c95af01-005d-49d6-9257-7b357aff1616</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

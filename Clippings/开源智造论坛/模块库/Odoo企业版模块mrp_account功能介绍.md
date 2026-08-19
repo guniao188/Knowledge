@@ -35,6 +35,21 @@ tags:
 
  **案例分析：**生产单MO生产桌子10个，需要原料桌面、桌腿、螺丝套、螺丝钉，工单（Work Order）工时510分钟，工作中心上工时单价34.59 。产成品入库成本如下：原料消耗17000元，工时总额294.01元，产成品入库17294.01元，如下图。
 
+
+## 原帖外链配图
+
+![[2-odoomrp-account-2463-x194038c2.png]]
+<small>原始地址: /web/image/586/mrp_acc1.png?access_token=aa37bde2-5bcd-4964-b64f-dd1996b63968</small>
+
+![[2-odoomrp-account-2463-x194038c2.png]]
+<small>原始地址: /web/image/588/mrp_acc2.png?access_token=27545b79-1625-4906-8bed-7730fa5ae895</small>
+
+![[2-odoomrp-account-2463-x194038c2.png]]
+<small>原始地址: /web/image/590/mrp_acc3.png?access_token=f3679ed6-db20-4f2b-9298-d02cdf07211e</small>
+
+![[2-odoomrp-account-2463-x194038c2.png]]
+<small>原始地址: /web/image/592/mrp_acc4.png?access_token=089e1347-1bc1-4981-87cf-2e7bec321177</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]

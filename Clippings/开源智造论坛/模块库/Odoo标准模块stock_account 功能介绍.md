@@ -185,6 +185,30 @@ n  贷 应付暂估            900
 
 ** ****库存计价科目（出向）：**从此库位出库时候，库存商品的对方科目，虚拟库位才填此科目，常见情况包括：盘点库位填 待处理财产损溢，生产库位填 生产成本
 
+
+## 原帖外链配图
+
+![[2-odoostock-account-2450-x194038c2.png]]
+<small>原始地址: /web/image/561/stock3.png?access_token=6c945c9c-362e-411d-9007-358e4642e89f</small>
+
+![[2-odoostock-account-2450-x194038c2.png]]
+<small>原始地址: /web/image/565/stock5.png?access_token=02b71d6c-d7e2-43de-a87f-2bfa43afcda5</small>
+
+![[2-odoostock-account-2450-x194038c2.png]]
+<small>原始地址: /web/image/567/stock6.png?access_token=b1dc3d10-451c-44aa-bd20-309b070ab6bb</small>
+
+![[2-odoostock-account-2450-x194038c2.png]]
+<small>原始地址: /web/image/569/stock7.png?access_token=84364068-f7b5-4122-ae79-6c7e31f9adac</small>
+
+![[2-odoostock-account-2450-x194038c2.png]]
+<small>原始地址: /web/image/563/stock4.png?access_token=6a10c18a-0318-4438-bd15-4dd8e0fa5439</small>
+
+![[2-odoostock-account-2450-x194038c2.png]]
+<small>原始地址: /web/image/559/stock2.png?access_token=39063797-a405-4a36-82f0-673a9d10848c</small>
+
+![[2-odoostock-account-2450-x194038c2.png]]
+<small>原始地址: /web/image/557/stock1.png?access_token=8372a280-576e-42b6-9ebb-2b98fa963bb4</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/模块库/00-模块库索引.md|← 模块库索引]]
