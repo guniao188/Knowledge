@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "审批的四种解决方案归集参考",
-      "path": "Clippings/开源智造论坛/方案库/审批的四种解决方案归集参考.md"
+      "basename": "微信公众号和Odoo17对接的技术研究",
+      "path": "Clippings/开源智造论坛/专家库/微信公众号和Odoo17对接的技术研究.md"
+    },
+    {
+      "basename": "Odoo17工作记录（hr.work.entry）的内部实现原理",
+      "path": "Clippings/开源智造论坛/专家库/Odoo17工作记录（hr.work.entry）的内部实现原理.md"
+    },
+    {
+      "basename": "销售发票-下载电子发票",
+      "path": "Clippings/开源智造论坛/模块库/销售发票-下载电子发票.md"
+    },
+    {
+      "basename": "练习：平台：Odoo服务器加速的若干方法",
+      "path": "Clippings/开源智造论坛/求助台/练习：平台：Odoo服务器加速的若干方法.md"
+    },
+    {
+      "basename": "无人机遥控器生产企业实战练习",
+      "path": "Clippings/开源智造论坛/方案库/无人机遥控器生产企业实战练习.md"
+    },
+    {
+      "basename": "基于Odoo在线电子表格实现中国式会计报表",
+      "path": "Clippings/开源智造论坛/方案库/基于Odoo在线电子表格实现中国式会计报表.md"
     },
     {
       "basename": "工程项目请购采购管理方案",
       "path": "Clippings/开源智造论坛/方案库/工程项目请购采购管理方案.md"
+    },
+    {
+      "basename": "生产领料及外协解决方案",
+      "path": "Clippings/开源智造论坛/方案库/生产领料及外协解决方案.md"
+    },
+    {
+      "basename": "审批的四种解决方案归集参考",
+      "path": "Clippings/开源智造论坛/方案库/审批的四种解决方案归集参考.md"
     },
     {
       "basename": "生产制造四（印刷包装）案例培训",
@@ -83,10 +111,6 @@
     {
       "basename": "门店订货实现方案",
       "path": "Clippings/开源智造论坛/方案库/门店订货实现方案.md"
-    },
-    {
-      "basename": "无人机遥控器生产企业实战练习",
-      "path": "Clippings/开源智造论坛/方案库/无人机遥控器生产企业实战练习.md"
     },
     {
       "basename": "关于直运及不同业务下的方案",
@@ -169,36 +193,12 @@
       "path": "Clippings/开源智造论坛/求助台/小票上扫码开票实现方案.md"
     },
     {
-      "basename": "生产领料及外协解决方案",
-      "path": "Clippings/开源智造论坛/方案库/生产领料及外协解决方案.md"
-    },
-    {
       "basename": "Postgress",
       "path": "Postgress.md"
     },
     {
       "basename": "00-总索引",
       "path": "Clippings/开源智造论坛/00-总索引.md"
-    },
-    {
-      "basename": "如何调整Form视图显示宽度？",
-      "path": "Clippings/开源智造论坛/求助台/如何调整Form视图显示宽度？.md"
-    },
-    {
-      "basename": "练习二：生产路线规则配置",
-      "path": "Clippings/开源智造论坛/求助台/练习二：生产路线规则配置.md"
-    },
-    {
-      "basename": "Pos端钱箱一般支持POS 的IoT box有哪些？秤有哪些？涉及一些什么协议接口？系统自带的POS小票打印的打印机有哪些型号可以兼容odo",
-      "path": "Clippings/开源智造论坛/求助台/Pos端钱箱一般支持POS 的IoT box有哪些？秤有哪些？涉及一些什么协议接口？系统自带的POS小票打印的打印机有哪些型号可以兼容odo.md"
-    },
-    {
-      "basename": "生产工单Work Order操作按钮详解",
-      "path": "Clippings/开源智造论坛/求助台/生产工单Work Order操作按钮详解.md"
-    },
-    {
-      "basename": "测试新迁移服务器有没有问题",
-      "path": "Clippings/开源智造论坛/求助台/测试新迁移服务器有没有问题.md"
     }
   ],
   "omittedPaths": [],

@@ -2,7 +2,7 @@
 title: Odoo 通用研发与运维
 type: project
 status: 长期
-updated: 2026-08-18
+updated: 2026-08-27
 tags: [Odoo, 研发, 运维]
 ---
 
@@ -55,6 +55,8 @@ tags: [Odoo, 研发, 运维]
 - Odoo 18 同一价格表的规则按“产品变体 > 产品 > 类别 > 全部产品”匹配，同级优先最小数量更大者，再按类别/记录 ID 排序；取第一条命中规则而不是最低价。无规则时回退 `list_price`，公式以销售价格为基准时才由 `list_price` 继续计算。
 - 计划任务没有当前选中记录，`record/records` 可能为 `None`；批量重算应主动搜索目标记录。按公司重算成本时必须显式设置公司上下文并阻止自定义跨公司同步，报价单成本/毛利只重算最近三个月 `draft/sent` 状态，正式执行前仍需测试库核验。
 - Odoo 19 欠单流程不会调用 `stock.move._key_assign_picking()`；该键只影响初次分配 picking。要按合并前来源拆分欠单，应先调用 `super()._create_backorder()`，再对返回欠单按已记录的原 picking 后处理拆分，避免复制原生欠单逻辑。
+- Odoo 18 的 Analytic 报表列按分析账户/计划展开，不保证横向列天然互斥；分析列合计大于基础 Total 时，优先排查重复或残留 `account.analytic.line`、跨计划重复统计，而不是先怀疑 Excel 求和。若分录被重置草稿后重新过账，还应同时检查重复 COGS Journal Items。
+- Analytic Items 正常应由标准过账流程创建、由标准重置草稿流程清理；额外设置“状态变为 Posted 时手工创建”的自动化容易重复。服务器动作绑定 `account.move.line` 时应使用 `line.move_id.state` 判断状态，并调用原生 `_create_analytic_lines()`，不要按 `account.move` 访问 `record.state` 或 `invoice_line_ids`。
 
 ## 代码仓库
 

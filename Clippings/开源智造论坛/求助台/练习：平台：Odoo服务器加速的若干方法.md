@@ -128,6 +128,12 @@ https://yq.aliyun.com/articles/744160?spm=a2c4e.11155472.0.0.611d1a7dYbpxva
 
 https://yq.aliyun.com/articles/745377?spm=a2c4e.11155472.0.0.611d1a7d3tm9X2
 
+
+## 原帖外链配图
+
+![[1-odoo-546-x194038c2.png]]
+<small>原始地址: /web/image/1970?access_token=88f2eb00-5808-4326-a96a-88674ef2667e</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/求助台/00-求助台索引.md|← 求助台索引]]

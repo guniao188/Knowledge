@@ -69,6 +69,36 @@ D、点击保存，则登录界面去除‘数据库管理’和‘由odoo提供
 
 ![[1-odoo-odoo-398-04485503.png]]
 
+
+## 原帖外链配图
+
+![[1-odoo-odoo-398-xab185014.png]]
+<small>原始地址: https://img-blog.csdnimg.cn/20190529134844659.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shado</small>
+
+![[1-odoo-odoo-398-xcbccc91d.png]]
+<small>原始地址: https://img-blog.csdnimg.cn/20190529162827516.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shado</small>
+
+![[1-odoo-odoo-398-xb1396418.png]]
+<small>原始地址: https://img-blog.csdnimg.cn/2019052916311539.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow</small>
+
+![[1-odoo-odoo-398-xa782cacc.png]]
+<small>原始地址: https://img-blog.csdnimg.cn/20190529163338655.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shado</small>
+
+![[1-odoo-odoo-398-xcc90f3a7.png]]
+<small>原始地址: https://img-blog.csdnimg.cn/20190529163522346.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shado</small>
+
+![[1-odoo-odoo-398-xa6c923d6.png]]
+<small>原始地址: https://img-blog.csdnimg.cn/20190530102910529.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shado</small>
+
+![[1-odoo-odoo-398-x33144f2d.png]]
+<small>原始地址: https://img-blog.csdnimg.cn/20190530103722865.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shado</small>
+
+![[1-odoo-odoo-398-x0e1e4367.png]]
+<small>原始地址: https://img-blog.csdnimg.cn/20190530104349575.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shado</small>
+
+![[1-odoo-odoo-398-x41179fe7.png]]
+<small>原始地址: https://img-blog.csdnimg.cn/20190530105533256.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shado</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/求助台/00-求助台索引.md|← 求助台索引]]

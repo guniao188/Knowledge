@@ -43,6 +43,18 @@ suto家ERP之前有很多负数出库的Stock Move，但运行调度器却不能
 
 文件 addons/stock_account/models/stock.py， 方法 def _prepare_account_move_line(self, qty, cost, credit_account_id, debit_account_id):
 
+
+## 原帖外链配图
+
+![[1-sutoerp-291-x194038c2.png]]
+<small>原始地址: /web/image/1642/TIM%E6%88%AA%E5%9B%BE20190522193815.png?access_token=ec12a588-0f85-401b-9b6d-1e3d9704cc3f</small>
+
+![[1-sutoerp-291-x194038c2.png]]
+<small>原始地址: /web/image/1644/TIM%E6%88%AA%E5%9B%BE20190522193936.png?access_token=fe433aa5-e4dc-4f86-a027-91aeff823ab9</small>
+
+![[1-sutoerp-291-x194038c2.png]]
+<small>原始地址: /web/image/1646/TIM%E6%88%AA%E5%9B%BE20190522194238.png?access_token=566f2e0e-89e1-4680-be8d-5e1eddd83039</small>
+
 ---
 
 相关:[[Clippings/开源智造论坛/求助台/00-求助台索引.md|← 求助台索引]]
